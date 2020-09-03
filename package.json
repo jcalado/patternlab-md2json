@@ -24,7 +24,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "marked": "~0.3.2",
+    "marked": "1.1.1",
     "lodash": "~2.4.1"
   },
   "devDependencies": {
